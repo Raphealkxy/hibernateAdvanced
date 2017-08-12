@@ -1,0 +1,17 @@
+#MyEclipse Hibernate Properties
+#Sat Aug 12 16:21:28 CST 2017
+genVersionTag=false
+sessionFactoryName=com.timmy.advanced.HibernateSessionFactory
+genAnnotations=false
+configFile=/hibernateAdvanced/src/hibernate.cfg.xml
+reStrategyClass=
+sessionFactoryId=
+profile=
+detectM2M=false
+genBasicCompId=false
+keyGenerator=
+createConfigFile=true
+basePersistenceClass=
+detectO2O=false
+useJavaTypes=true
+reSettingsFile=
